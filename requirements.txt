@@ -1,7 +1,7 @@
-streamlit
+openCv
 numpy
 pillow
 scikit-learn
 tqdm
-# TensorFlow is optional. If you want the TF model-based embeddings, uncomment below.
-# tensorflow
+tensorflow
+pickle
